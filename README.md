@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hello there! 👋
 
-<!--
-**wenlianggg/wenlianggg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently trying to graduate with a CS degree at Singapore Management University.
 
-Here are some ideas to get you started:
+My areas of interest include Cloud Infrastructure, DevOps and Cybersecurity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on coding
+- 🌱 I’m currently learning to code
+- 👯 I’m looking to collaborate on coding
+- 🤔 I’m looking for help with coding
+- 💬 Ask me about coding
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I wrote my first piece of code at 12 :)
