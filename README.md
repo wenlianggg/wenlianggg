@@ -9,5 +9,5 @@ My areas of interest include Cloud Infrastructure, DevOps and Cybersecurity.
 - 👯 I’m looking to collaborate on coding
 - 🤔 I’m looking for help with coding
 - 💬 Ask me about coding
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I wrote my first piece of code at 12 :)
+- 😄 Pronouns: Cod/ing
+- ⚡ Fun fact: I am coding
